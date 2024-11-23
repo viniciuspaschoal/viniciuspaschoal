@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">👨‍🎓 Studying Computer Engineering at UNISAL.<br>👨‍💻 Passionate about technology and coding.<br>🌟 Constantly learning and exploring new skills.<br>📚 Currently, studying with a focus on front end technologies such as react (React.js and Javascript).<br>✨ Open to collaboration and sharing knowledge.<br>💼 Looking for a job opportunity in the IT field.</p>
+<p align="left">🎓 Studying Computer Engineering at UNISAL.<br>👨‍💻 Passionate about technology and coding.<br>🌟 Constantly learning and exploring new skills.<br>📚 Currently, studying with a focus on front end technologies such as react (React.js and Javascript).<br>✨ Open to collaboration and sharing knowledge.<br>💼 Looking for a job opportunity in the IT field.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuspaschoal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=viniciuspaschoal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -26,10 +33,6 @@
 
 ###
 
-<img align="right" height="150" src="https://static.wixstatic.com/media/6a40bd_00d558542f5c454ca1a8a85cd9551893~mv2.gif"  />
-
-###
-
 <div align="left">
   <a href="linkedin.com/in/vinicius-paschoal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -40,6 +43,22 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/viniciuspaschoal/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/viniciuspaschoal/viniciuspaschoal/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciuspaschoal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
