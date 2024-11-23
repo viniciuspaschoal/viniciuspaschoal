@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://static.wixstatic.com/media/6a40bd_00d558542f5c454ca1a8a85cd9551893~mv2.gif"  />
-
-###
