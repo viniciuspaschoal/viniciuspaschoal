@@ -1,8 +1,8 @@
-<h2 align="left">Hello, World!🌎 <br>I'm Vinícius de Lima Paschoal, from Santa Bárbara d'Oeste - SP - Brazil  🙋🏻‍♂️💻</h2>
+<h1 align="left">Hello, World!🌎 <br>I'm Vinícius de Lima Paschoal, from Santa Bárbara d'Oeste - SP - Brazil  🙋🏻‍♂️💻</h1>
 
 ###
 
-<p align="left">🎓 Studying Computer Engineering at UNISAL.<br>👨‍💻 Passionate about technology and coding.<br>🌟 Constantly learning and exploring new skills.<br>📚 Currently, studying with a focus on front end technologies such as react (React.js and Javascript).<br>✨ Open to collaboration and sharing knowledge.<br>💼 Looking for a job opportunity in the IT field.</p>
+<h4 align="left">🎓 Studying Computer Engineering at UNISAL.<br>👨‍💻 Passionate about technology and coding.<br>🌟 Constantly learning and exploring new skills.<br>📚 Currently, studying with a focus on front end technologies such as react (React.js and Javascript).<br>✨ Open to collaboration and sharing knowledge.<br>💼 Looking for a job opportunity in the IT field.</h4>
 
 ###
 
